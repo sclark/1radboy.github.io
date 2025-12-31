@@ -1,2 +1,1 @@
-# 1radboy.github.io
-
+# [1radboy.com](http://1radboy.com) ([1radboy.github.io](http://1radboy.github.io))
